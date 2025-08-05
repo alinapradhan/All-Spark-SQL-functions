@@ -1,10 +1,6 @@
-# -All-Spark-SQL-functions
-A comprehensive reference of all Spark SQL functions implemented in PySpark. Ideal for data engineers and analysts working with big data transformations
-Here's a **detailed README** for your notebook `SPARKSQLAllFunctionsPyspark.ipynb`:
 
----
 
-# SPARKSQLAllFunctionsPyspark
+# SPARK SQL All Functions Pyspark
 
 A comprehensive reference guide to using Spark SQL functions in PySpark. This notebook demonstrates how to apply a wide range of built-in SQL functions for data processing, transformation, and analysis in Apache Spark.
 
