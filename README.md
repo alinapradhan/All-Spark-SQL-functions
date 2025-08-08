@@ -5,7 +5,7 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 ## Features
 * Covers over 100+ commonly used Spark SQL functions
 * Categorized by function types (string, date, aggregation, window, etc.)
-* Real-world usage examples with DataFrame inputs
+* Real-world usage examples with DataFrame inputs 
 * Syntax and behavior illustrations for each function
 * Easy to run and modify for quick testing
 
