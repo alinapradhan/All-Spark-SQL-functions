@@ -1,7 +1,7 @@
 # Spark SQL All Functions Pyspark
 
 A comprehensive reference guide to using Spark SQL functions in PySpark. This notebook demonstrates how to apply a wide range of built-in SQL functions for data processing, transformation, and analysis in Apache Spark.
-
+ 
 ## Features
 * Covers over 100+ commonly used Spark SQL functions
 * Categorized by function types (string, date, aggregation, window, etc.)
