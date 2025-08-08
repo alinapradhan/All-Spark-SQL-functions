@@ -36,14 +36,6 @@ Each section focuses on a specific group of SQL functions, such as:
 * Window functions (`rank`, `dense_rank`, etc.)
 * Conditional functions (`when`, `coalesce`, etc.)
 
-## Example
-
-```python
-from pyspark.sql.functions import upper, col
-
-df = spark.createDataFrame([("alice",), ("bob",)], ["name"])
-df.select(upper(col("name")).alias("name_upper")).show()
-```
 
 ## Recommended For
 
