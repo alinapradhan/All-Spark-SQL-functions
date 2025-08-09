@@ -16,7 +16,6 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 * Jupyter Notebook or compatible IDE
 
 ## How to Use
-
 1. Clone the repository or download the notebook:
 
    ```bash
