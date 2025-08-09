@@ -25,7 +25,6 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 3. Follow the examples and run code cells to explore each function.
 
 ## Structure
-
 Each section focuses on a specific group of SQL functions, such as:
 
 * String functions (`concat`, `substr`, `upper`, etc.)
