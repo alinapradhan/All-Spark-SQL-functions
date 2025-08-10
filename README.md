@@ -7,10 +7,10 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 * Categorized by function types (string, date, aggregation, window, etc.)
 * Real-world usage examples with DataFrame inputs 
 * Syntax and behavior illustrations for each function
-* Easy to run and modify for quick testing
+* Easy to run and modify for quick testing 
 
 ## Requirements:
-* Python 3.x 
+* Python 3.x  
 * Apache Spark (>= 3.0) 
 * PySpark library
 * Jupyter Notebook or compatible IDE
