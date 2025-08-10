@@ -10,7 +10,7 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 * Easy to run and modify for quick testing 
 
 ## Requirements:
-* Python 3.x  
+* Python 3.x   
 * Apache Spark (>= 3.0) 
 * PySpark library
 * Jupyter Notebook or compatible IDE 
