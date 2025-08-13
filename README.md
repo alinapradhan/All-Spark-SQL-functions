@@ -15,14 +15,6 @@ A comprehensive reference guide to using Spark SQL functions in PySpark. This no
 * PySpark library
 * Jupyter Notebook or compatible IDE 
  
-## How to Use:
-1. Clone the repository or download the notebook:
-
-   ```bash
-   git clone <repo_url>
-   ``` 
-2. Launch Jupyter and open `SPARKSQLAllFunctionsPyspark.ipynb`
-3. Follow the examples and run code cells to explore each function.
 
 ## Structure:
 Each section focuses on a specific group of SQL functions, such as:
